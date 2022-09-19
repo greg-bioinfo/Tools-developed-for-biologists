@@ -15,7 +15,7 @@ In order to select the closest proteins, the nodes of the graph were transformed
 The input parameters are the name of the protein studied, the keywords searched for in the biological processes, as well as the number of closest proteins to be selected.
 
 
-##Results
+## Results
 
 The final graph represents the shortest path between the starting protein (red) and the closest proteins containing the keyword in their biological processes
 (blue). The proteins in green make it possible to understand the indirect interaction between the protein of interest and the targeted proteins. The size of the nodes of the graph represents the similarity of the interactions of the protein with those of the protein of interest.
